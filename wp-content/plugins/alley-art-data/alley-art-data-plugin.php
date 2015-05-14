@@ -13,7 +13,7 @@ Version: 0.1
  }
  
  function alley_art_init() {
- 	echo 'Alley Art Admin Page';
+ 	echo '<h1>Alley Art Admin Page</h1>';
  }
  
  ?>
