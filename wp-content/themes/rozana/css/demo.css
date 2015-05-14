@@ -1,0 +1,48 @@
+/*Deom*/
+/*Landing page*/
+.customfullbackground 
+	{
+		margin:0 auto;
+		width:100%;
+		padding:0;
+		height:650px;
+		position:relative;
+		/*background: url(img/background/landpage_fixed.jpg) no-repeat center center #2a2a2a;*/
+		background-position:center center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+
+.customfullbackground .transparent-bg
+	{
+		background:rgba(0,0,0,0.7);
+	}
+.custom-img-position {
+	position:absolute;
+	right:23px;
+	top:-11px;
+}
+@media (max-width: 1024px)
+{
+	.custom-img-position {
+		top:9px;
+	}
+}
+/* End of landpage background*/
+
+.page-id-2354 .full-background 
+	{
+		background-position:center center;
+		
+	}
+.page-id-2730 .full-background 
+	{
+		background-attachment: fixed;
+		background-position:center center;
+	}
+	
+.page-id-2345 .fullwidth-banner {
+	background-position: 0 0;
+}

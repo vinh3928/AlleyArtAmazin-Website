@@ -1,0 +1,262 @@
+/* == Basic  ==*/
+
+body
+	{
+	  background: #1a1a1a;
+	  color: #8a8a8a;
+	}
+
+/* == Color Styles  ==*/
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6, 
+header h5, 
+.block-item i,
+.square-btn,
+.cricle-process,
+.portfolioFilter ul li a,
+.fun-facts h5,
+.team-member p,
+.features li,
+.features li.active,
+.price,
+.forms button,
+.overview h3 span,
+.btn-icon,
+.btn-icon:hover,
+a:hover, 
+a > *:hover, 
+a:visited, a:link,
+.pagination>li a,
+.head-sidebar,
+.social-network li a,
+.tags-list ul li a,
+.portfolio-description ul li a,
+.tab-content2,
+.tab-content2 h2,
+a,
+.format-link .blog-list .blog-title .title-blog-name p a,
+.title-blog-name h1,
+.counter-wrapper,
+.img-banner blockquote,
+.the-comment .fn.n,
+#respond .forms input[type="hidden"], #respond .forms input[type="submit"],
+.search button:hover,
+.team-member:hover h5,
+.tab-content .carousel-control span,
+.tagcloud a,
+.format-link .blog-list .blog-title .title-blog-name p a,
+.title-blog-name h1,
+.counter-wrapper,
+#commentform input[type="hidden"], #commentform input[type="submit"],
+.blog-desc-single .share a,
+.blog-desc-single a:hover,
+.list-features li, .list-features-2 li,
+.what-we-do ul li
+	{
+		color:#ffffff;
+	}
+
+.forms input,
+.forms select,
+.forms textarea,
+.breadcrumb-blog span,
+a.comment-reply-link i,
+.tab-content3 ul li span,
+.platform-icon i,
+#comments-list .comment-meta a, #comments-list .comment-meta a.comment-edit-link:hover, #comments-list a.comment-edit-link:hover
+	{
+		color:#666;
+	}
+
+/* == Background Colors Styles  ==*/
+
+.theme-color,
+.icon-facts i, 
+.cricle-process,
+.price,
+.forms button,
+.btn-icon,
+.nav-tabs2>li>a,
+.portfolio-withtext div.portfolio-sample,
+.portfolio-withtext-gird div.portfolio-sample,
+.panel,
+.branches .panel-default a.accordion-toggle 
+	{
+		background:#222222;
+	}
+
+.features li.active,
+.tab-content2,
+.blog-date span:last-child,
+.img-banner blockquote,
+.the-comment,
+.blockquote-bg,
+.dropcap3,
+.panel-body p span,
+.nav>li>a:hover,
+.nav>li>a:focus,
+.contact-information ul.service-list li span,
+.question h3 span,
+.social-network li a,
+.portfolio-pagination li a,
+.tab-content .carousel-control,
+.toggle_01 .panel-default a.accordion-toggle,
+.toggle_01 .panel-default a.accordion-toggle,
+.comment-body,
+.tab-content .container.pad-top-bottom,
+.tagcloud a
+	{
+		background:#3a3a3a;
+	}
+
+.forms input, 
+.forms textarea,
+.forms select,
+.search .form-control,
+.input-group-btn:last-child>.btn,
+.head-sidebar, .dropcap2,
+.tags-list ul li a,
+.portfolio-description ul li a,
+.jumbotron,
+.tagcloud a,
+.blog-masonry-style .blog-list,
+#commentform input, #commentform select, .forms input, .forms select, .blog-desc-single .post-password-form p input[type="password"],
+#commentform textarea, .forms textarea
+	{
+		background:#2a2a2a;
+	}
+	
+.view-more a,
+.owl-theme-style .owl-controls .owl-pagination .owl-page,
+.portfolioFilter ul li a,
+.team-member:hover,
+#owl-demo .owl-controls .owl-pagination .owl-page,
+.progress,
+.features,
+.footer,
+.page-links a span,
+.pagination>li a
+	{
+		background:#4e4e4e;
+	}
+
+.grey-bg,
+.second-bg,
+.portfolio-withtext div.second-bg 
+	{
+		background:#151515;
+	}
+
+/* == Background Images Styles  ==*/
+
+.portfolioFilter a.current 
+	{ 
+		background-image:url(../../img/tabs_dark.png);
+	}
+
+.process-bg 
+	{
+		background:url(../../img/dark_process.png) no-repeat top center;
+	}
+
+.login-icon 
+	{
+		background:url(../../img/lock_hover.png) center top no-repeat;
+	}
+	
+.tree-timeline 
+	{
+		background:url(../../img/top_tree_dark.png) no-repeat center top;
+	}
+
+.tree-repeat 
+	{
+		background:url(../../img/tree_repeat_dark.png) repeat-y center top;
+	}
+	
+.build-right:last-child,
+.build-left:last-child 
+	{
+		background:url(../../img/bottom_tree_dark.png) no-repeat bottom center;
+	}
+
+/* == Borders Styles  ==*/
+
+.fun-facts,
+.forms input,
+.forms textarea,
+.forms select,
+.career,
+.search .form-control,
+.marg-divider,
+.tab-content3 ul li,
+.panel-default a.panel-link,
+.panel-default,
+.client-img,
+.portfolio-description,
+.blog-list,
+.blog-desc-single .share,
+.about-author,
+.the-comment,
+.comment-body, 
+#respond,
+#comments-list > li > ol.children li:before,
+#comments-list > li > ol.children,
+#comments-list  li ol.children,
+blockquote,
+.search button,
+.branches .faqs .panel-default,
+.divider-dashed,
+.divider-solid,
+.divider-dotted,
+.faqs .panel-default a.accordion-toggle,
+.login-icon input,
+.toggle_01 .panel-default a.accordion-toggle,
+.post-share .share,
+#commentform input, #commentform select, .forms input, .forms select, .blog-desc-single .post-password-form p input[type="password"],
+#commentform textarea, .forms textarea,
+.mc4wp-form input[type="date"], .mc4wp-form input[type="email"], .mc4wp-form input[type="tel"], .mc4wp-form input[type="text"], .mc4wp-form input[type="url"], .mc4wp-form select, .mc4wp-form textarea, .newsletter input
+	{
+		border-color:#4e4e4e;
+	}
+
+
+.team-member, 
+.cricle-process,
+.owl-theme-style .owl-controls .owl-pagination .owl-page.active, 
+.blog-masonry-style .blog-list 
+	{
+		border:1px solid #383838;
+	}
+.what-we-do li.border-grey i {
+	border-color:#383838;
+}
+.features li 
+	{
+		border-top:1px solid #2a2a2a;
+	}
+
+.img-member img 
+	{
+		border:10px solid #222222;
+	}
+	
+.touch-bg 
+	{
+		background-color:#222222;
+	}
+
+.fixed-logo 
+	{
+		background:rgba(26,26,26,0.8);
+	}
+
+/* ========== END ======== */
+/* Last Modified 18-10-2014 */
+
+/* Added Class Name  .fixed-logo  */

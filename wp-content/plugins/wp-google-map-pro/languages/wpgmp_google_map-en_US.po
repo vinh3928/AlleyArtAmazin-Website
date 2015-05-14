@@ -1,0 +1,2398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp google map pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-24 16:07+0530\n"
+"PO-Revision-Date: 2015-04-24 16:09+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: Flipper Code <hello@flippercode.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SearchPath-0: /applications/xampp/xamppfiles/htdocs/demos/wp-"
+"content/plugins/wp-google-map-pro\n"
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:250
+msgid "Categories"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:253
+msgid "Directions"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:256
+msgid "Nearby"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:260
+msgid "Route Directions"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:344
+msgid "Start Point"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:345
+msgid "End Point"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:348
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:355
+msgid "Driving"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:349
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:357
+msgid "Bicycling"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:350
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:356
+msgid "Walking"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:351
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:358
+msgid "Transit"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:372
+msgid "Current Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:374
+msgid "Miles"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:376
+msgid "Find Locations"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:426
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:1647
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:1650
+msgid "Hide"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/class-google-map.php:1648
+msgid "Show"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:171
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:172
+msgid "WP Google Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:180
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:181
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:75
+msgid "Add Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:189
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:190
+msgid "Quick Locations"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:198
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:199
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:418
+msgid "Manage Locations"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:207
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:208
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-import-location.php:274
+msgid "Import Locations"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:215
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:216
+msgid "Create Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:223
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:224
+msgid "Manage Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:231
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:232
+msgid "Drawing"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:240
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:241
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:39
+msgid "Add Marker Category"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:249
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:250
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:256
+msgid "Manage Marker Categories"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:258
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:259
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:98
+msgid "Add Route"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:267
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:268
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:566
+msgid "Manage Routes"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:276
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:277
+msgid "Settings"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:983
+msgid "Google WP Map Pro Settings"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:989
+msgid "Click Here"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:989
+msgid "to add a new location or"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:989
+msgid "Browse"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:989
+msgid "your existings locations."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:995
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1679
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2265
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2352
+msgid "Zoom Level"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:998
+msgid "Choose Zoom Level between 1 to 19. Default is 14."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1003
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:425
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:614
+msgid "Center Latitude"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1006
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1014
+msgid "Write down center location on the map."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1011
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:438
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:627
+msgid "Center Longitude"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1019
+msgid "Select Language"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1022
+msgid "ENGLISH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1023
+msgid "ARABIC"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1024
+msgid "BASQUE"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1025
+msgid "BULGARIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1026
+msgid "BENGALI"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1027
+msgid "CATALAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1028
+msgid "CZECH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1029
+msgid "DANISH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1030
+msgid "GERMAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1031
+msgid "GREEK"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1032
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1033
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1034
+msgid "SPANISH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1035
+msgid "FARSI"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1036
+msgid "FINNISH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1037
+msgid "FILIPINO"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1038
+msgid "FRENCH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1039
+msgid "GALICIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1040
+msgid "GUJARATI"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1041
+msgid "HINDI"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1042
+msgid "CROATIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1043
+msgid "HUNGARIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1044
+msgid "INDONESIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1045
+msgid "ITALIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1046
+msgid "HEBREW"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1047
+msgid "JAPANESE"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1048
+msgid "KANNADA"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1049
+msgid "KOREAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1050
+msgid "LITHUANIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1051
+msgid "LATVIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1052
+msgid "MALAYALAM"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1053
+msgid "MARATHI"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1054
+msgid "DUTCH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1055
+msgid "NORWEGIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1056
+msgid "POLISH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1057
+msgid "PORTUGUESE"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1058
+msgid "PORTUGUESE (BRAZIL)"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1059
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1060
+msgid "ROMANIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1061
+msgid "RUSSIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1062
+msgid "SLOVAK"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1063
+msgid "SLOVENIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1064
+msgid "SERBIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1065
+msgid "SWEDISH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1066
+msgid "TAGALOG"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1067
+msgid "TAMIL"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1068
+msgid "TELUGU"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1069
+msgid "THAI"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1070
+msgid "TURKISH"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1071
+msgid "UKRAINIAN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1072
+msgid "VIETNAMESE"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1073
+msgid "CHINESE (SIMPLIFIED)"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1074
+msgid "CHINESE (TRADITIONAL)"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1076
+msgid "Default is English."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1087
+msgid "Save Changes"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1121
+msgid "A widget that displays the google map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1159
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:48
+msgid "Select Your Map:"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1162
+msgid "Select map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1253
+msgid "WP Google Map Pro"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1296
+msgid "Enter Location :"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1300
+msgid "Latitude :"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1302
+msgid "Longitude :"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1306
+msgid "Select Marker Group :"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1315
+msgid "Select Map :&nbsp;&nbsp;"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1336
+msgid "Please <a href=\""
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1375
+msgid "Choose Icons"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1407
+msgid "Select Icons"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1436
+msgid "Insert into Post"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1707
+msgid "How to Use"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1714
+msgid "Go through the steps below to create your first map:"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1716
+msgid "Step 1"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1716
+msgid "Use our auto suggestion enabled location box to add your location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1716
+msgid "here"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1716
+msgid ""
+"You can add multiple locations.All those locations will be available to "
+"choose when you create your map."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1719
+msgid "Step 2"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1719
+msgid "Now"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1719
+msgid "click here"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1719
+msgid ""
+"to create a map. You can create as many maps you want to add. Using "
+"shortcode, you can add maps on posts/pages."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1722
+msgid "Step 3"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1722
+msgid ""
+"When done with administrative tasks, you can display map on posts/pages "
+"using "
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1722
+msgid "shortcodes"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1722
+msgid "Enable map in the widgets section to display in sidebar"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1736
+msgid "Online Documentation"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1743
+msgid ""
+"Documentation is available with the zipped package of the purchased plugin "
+"or visit our "
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1743
+msgid "Official Website"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1743
+msgid "online documentation"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1756
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:101
+msgid "Shortcodes"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1892
+msgid "No location found for the entered address."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1894
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1896
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wp-google-map-pro.php:1899
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:15
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:16
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:220
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:186
+msgid "Please enter title."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:20
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:225
+msgid "Please enter latitude."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:25
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:230
+msgid "Please enter longitude."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:66
+msgid "Location added successfully. You can manage your locations <a href=\""
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:92
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:306
+msgid "Location Title"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:94
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:308
+msgid "Enter here the location title"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:98
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:128
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:312
+msgid "Address"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:101
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-quick-locations.php:292
+msgid "Geocode"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:104
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:318
+msgid "Enter here the address. Google auto suggest helps you to choose one."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:105
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:129
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:320
+msgid "Latitude"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:106
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:320
+msgid "Enter here the latitude."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:108
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:131
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:322
+msgid "Longitude"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:109
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:324
+msgid "Enter here the longitude."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:116
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:332
+msgid "Message"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:118
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:334
+msgid "Enter here the infoWindow message."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:123
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:211
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:339
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:379
+msgid "Draggable"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:125
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:341
+msgid "Do you want to allow visitors to drag the marker?."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:130
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:345
+msgid "Disable Infowindow"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:132
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:347
+msgid "Do you want to disable infowindow for this location?"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:137
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:71
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:225
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:351
+msgid "Choose Marker Image"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:173
+msgid "You don't have any marker group yet."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:173
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:267
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:299
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:366
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:646
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:388
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:838
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:435
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:467
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:538
+msgid "Click here"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:173
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:388
+msgid "to add a group marker now"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:181
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:396
+msgid "Assign a marker group to this location."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-location.php:188
+msgid "Save Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:19
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:122
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:184
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:295
+msgid "Please enter route title."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:68
+msgid "Route added successfully."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:118
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:291
+msgid "Route Title"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:128
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:301
+msgid "Stroke Color"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:136
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:305
+msgid "Choose route direction stroke color.(Default is Blue)"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:142
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:311
+msgid "Stroke Opacity"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:157
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:326
+msgid "Please select route direction stroke opacity."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:163
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:332
+msgid "Stroke Weight"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:177
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:345
+msgid "Please select route direction stroke weight."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:183
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:351
+msgid "Travel Modes"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:187
+msgid "DRIVING"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:188
+msgid "WALKING"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:189
+msgid "BICYCLING"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:190
+msgid "TRANSIT"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:192
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:205
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:360
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:373
+msgid "Please select travel mode."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:198
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:366
+msgid "Unit Systems"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:202
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:370
+msgid "METRIC"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:203
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:371
+msgid "IMPERIAL"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:216
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:384
+msgid "Please check to enable marker draggable."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:223
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:391
+msgid "Display Custom Marker"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:228
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:396
+msgid "Please check to display custom markers."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:235
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:403
+msgid "Optimize Waypoints"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:240
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:408
+msgid "Please check to enable optimize waypoints."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:247
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:93
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:415
+msgid "Start Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:267
+msgid "Seems you don\\\"t have any location right now "
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:267
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:299
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:366
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:435
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:467
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:538
+msgid "to add a location now."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:273
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:441
+msgid "Please select start location."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:279
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:94
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:447
+msgid "End Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:299
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:366
+msgid "Seems you don\\\"t have any location right now."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:305
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:473
+msgid "Please select end location."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:312
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:480
+msgid "Way Points"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:313
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:481
+msgid "Filter :"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:315
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:365
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:483
+msgid "Select group"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-add-routes.php:376
+msgid "Save Route"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:15
+msgid "Please enter category title."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:19
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:167
+msgid "Please upload marker image."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:31
+msgid "category Created Successfully."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:60
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:211
+msgid "General Settings"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:64
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:75
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:215
+msgid "Category Title"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:67
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:220
+msgid "Enter here the category title."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:79
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:234
+msgid "Upload Marker Image"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:80
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:236
+msgid "Remove Marker Image"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:82
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:240
+msgid "Upload marker image."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-group-map.php:86
+msgid "Save Marker Category"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:20
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:190
+msgid "Please enter Integer value in map width."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:24
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:194
+msgid "Please enter map height."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:28
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:198
+msgid "Please enter Integer value in map height."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:34
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:204
+msgid "Please choose a route."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:158
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:328
+msgid "Please check at least one group map."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:163
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:333
+msgid "Please insert KML link."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:167
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:337
+msgid "Please insert Fusion Select."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:171
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:341
+msgid "Please insert Fusion From."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:189
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:359
+msgid "Please enter grid."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:193
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:363
+msgid "Please enter Integer value in grid."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:207
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:377
+msgid "Please enter overlay width."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:209
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:379
+msgid "Please enter Integer value in overlay width."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:213
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:383
+msgid "Please enter overlay height."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:215
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:385
+msgid "Please enter Integer value in overlay height."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:219
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:389
+msgid "Please enter overlay Font Size."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:221
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:391
+msgid "Please enter Integer value in overlay Font Size."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:225
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:395
+msgid "Please enter overlay border width."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:227
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:397
+msgid "Please enter Integer value in overlay border width."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:301
+msgid "Map created successfully. You can manage your maps <a href=\""
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:336
+msgid "Create a Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:356
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:548
+msgid "General Setting"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:361
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:553
+msgid "Map Title"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:367
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:559
+msgid "Enter here the title"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:376
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:93
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:567
+msgid "Map Width"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:382
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:573
+msgid "Enter here the map width in pixel. Leave it blank for 100% width."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:389
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:95
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:580
+msgid "Map Height"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:395
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:586
+msgid "Enter here the map height in pixel."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:402
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:97
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:593
+msgid "Map Zoom Level"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:417
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1468
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:607
+msgid "(Available options - 1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19)."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:431
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:620
+msgid "Enter here the center latitude. You may leave it blank."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:444
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:633
+msgid "Enter here the center longitude. You may leave it blank."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:451
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:641
+msgid "Choose Map Type"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:457
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:647
+msgid "ROADMAP"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:460
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:650
+msgid "SATELLITE"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:463
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:653
+msgid "HYBRID"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:466
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:656
+msgid "TERRAIN"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:470
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:660
+msgid ""
+"(Available options - ROADMAP,SATELLITE,HYBRID,TERRAIN {Default is roadmap "
+"type})."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:477
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:667
+msgid "Center by Nearest Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:483
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:673
+msgid "Please check to set center by nearest location."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:490
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:680
+msgid "Turn Off Scrolling Wheel"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:496
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:686
+msgid "Please check to disable scroll wheel zooms."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:503
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:693
+msgid "Map Draggable"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:509
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:699
+msgid "Please check to disable map draggable."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:517
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:706
+msgid "Enable Visual Refresh"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:523
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:712
+msgid "Please check to enable visual refresh."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:530
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:719
+msgid "45&deg; Imagery"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:536
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:725
+msgid ""
+"Apply 45&deg; Imagery ? (only available for map type SATELLITE and HYBRID)."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:543
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:732
+msgid "Infowindow Open"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:549
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:738
+msgid "please check to enable infowindow default open."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:562
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:751
+msgid "Choose Locations"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:644
+msgid "Seems you don't have any location right now."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:648
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:840
+msgid "to add a location now"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:658
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:664
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:848
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:854
+msgid "Infowindow Setting"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:671
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:862
+msgid ""
+"Enter placeholders {marker_title},{marker_message},{marker_address},"
+"{marker_category},{marker_latitude},{marker_longitude}."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:678
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:869
+msgid "Show Infowindow on"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:685
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:876
+msgid "Mouse Click"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:686
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:877
+msgid "Mouse Hover"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:692
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:883
+msgid "Select infowindow open on Mouse Click or Mouse Hover."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:699
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:890
+msgid "Layers"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:704
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:908
+msgid "Kml Layer"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:710
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:914
+msgid "Please check to enable Kml Layer."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:726
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:744
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:930
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:948
+msgid "Insert here the Kml Link if you select KML Layer."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:755
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:971
+msgid "Fusion Table Layer"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:761
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:977
+msgid "Please check to enable Fusion Table Layer."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:773
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:819
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:989
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1035
+msgid "Select"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:779
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:825
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:995
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1041
+msgid "Insert here the fusion select."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:786
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:832
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1633
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1002
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1048
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2221
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2306
+msgid "From"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:792
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:838
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1008
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1054
+msgid "Insert here the fusion from."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:799
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:845
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1015
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1061
+msgid "Heat Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:805
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:851
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1021
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1067
+msgid "Please check if heat map is enable."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:862
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1090
+msgid "Traffic Layer"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:868
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1096
+msgid "Please check to enable Traffic Layer."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:875
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1116
+msgid "Transit Layer"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:881
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1122
+msgid "Please check to enable Transit Layer."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:888
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1142
+msgid "Weather Layer"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:894
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1148
+msgid "Please check to enable Weather Layer."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:906
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:947
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1160
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1201
+msgid "Temperature units:"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:911
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:952
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1165
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1206
+msgid "&nbsp;Celsius&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:913
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:954
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1167
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1208
+msgid "&nbsp;Fahrenheit"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:915
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:956
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1169
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1210
+msgid "Please check temperature unit."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:922
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:963
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1176
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1217
+msgid "Wind speed units:"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:927
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:968
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1181
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1222
+msgid "&nbsp;mph&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:929
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:970
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1183
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1224
+msgid "&nbsp;km/h&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:931
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:972
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1185
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1226
+msgid "&nbsp;m/s"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:933
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:974
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1187
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1228
+msgid "Please check wind speed unit."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:985
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1251
+msgid "Bicycling Layer"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:991
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1257
+msgid "Please check to enable Bicycling Layer."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:998
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1277
+msgid "Panoramio Layer"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1004
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1283
+msgid "Please check to enable Panoramio Layer."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1011
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1290
+msgid "Control Setting"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1016
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1295
+msgid "Turn Off Pan Control"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1022
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1301
+msgid "Please check to disable pan control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1029
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1308
+msgid "Turn Off Zoom Control"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1035
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1314
+msgid "Please check to disable zoom control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1042
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1321
+msgid "Turn Off Map Type Control"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1048
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1327
+msgid "Please check to disable map type control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1055
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1334
+msgid "Turn Off Scale Control"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1061
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1340
+msgid "Please check to disable scale control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1068
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1347
+msgid "Turn Off Street View Control"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1074
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1353
+msgid "Please check to disable street view control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1081
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1360
+msgid "Turn Off Overview Map Control"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1087
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1366
+msgid "Please check to disable overview map control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1094
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1373
+msgid "Map Style Setting"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1104
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1387
+msgid "Feature Type"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1109
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1392
+msgid "Element Type"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1114
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1397
+msgid "Color"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1119
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1402
+msgid "Visibility"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1127
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1415
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1410
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1838
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1912
+msgid "Style"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1132
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1415
+msgid "Select Featured Type"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1147
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1436
+msgid "Select Element Type"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1179
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1474
+msgid "Yes"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1182
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1477
+msgid "No"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1185
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1480
+msgid "Simplifed"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1199
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1494
+msgid ""
+"Javascript style array here. You can get awesome readymade styles from <a "
+"href=\"http://snazzymaps.com/\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1207
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1502
+msgid "Street View Setting"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1212
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1507
+msgid "Turn On Street View"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1218
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1513
+msgid "Please check to enable Street View control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1232
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1525
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1600
+msgid "Turn On Close Button"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1238
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1531
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1606
+msgid "Please check to enable Close button."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1245
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1538
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1613
+msgid "Turn Off links Control"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1251
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1544
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1619
+msgid "Please check to disable links control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1258
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1551
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1626
+msgid "Turn Off Street View Pan Control"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1264
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1557
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1632
+msgid "Please check to disable Street View Pan control."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1271
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1565
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1639
+msgid "POV Heading"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1277
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1571
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1645
+msgid "Please enter POV heading"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1285
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1579
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1653
+msgid "POV Pitch"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1291
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1585
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1659
+msgid "Please enter POV Pitch"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1300
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1672
+msgid "Route Direction Setting"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1305
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1677
+msgid "Turn On Map Route Directions"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1311
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1683
+msgid "Please check to enable map route directions."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1326
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1695
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1750
+msgid "Select Routes"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1377
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1802
+msgid "Marker Cluster Setting"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1382
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1807
+msgid "Marker Cluster"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1388
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1813
+msgid "Apply Marker Cluster ?"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1402
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1825
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1899
+msgid "Grid"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1408
+msgid "Enter grid here. Default is 15"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1421
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1589
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1844
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1918
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2068
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2173
+msgid "Default"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1424
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1847
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1921
+msgid "People"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1427
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1850
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1924
+msgid "Conversation"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1430
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1853
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1927
+msgid "Heart"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1434
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1857
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1931
+msgid "(Available options - Default,People,Conversation,Herat)."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1441
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1864
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1938
+msgid "Max Zoom Level"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1476
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1970
+msgid "Overlay Setting"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1481
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1975
+msgid "Overlay"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1487
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1981
+msgid "Overlays (if you checked,below information can not be empty)."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1501
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1993
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2093
+msgid "Overlay Border Color"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1520
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1999
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2099
+msgid "(Default is red)."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1527
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2006
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2107
+msgid "Overlay Width"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1532
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1546
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1560
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1574
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2011
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2025
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2039
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2053
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2112
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2127
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2142
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2157
+msgid "&nbsp;px"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1534
+msgid "Insert here Overlay Width. Default is 200px"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1541
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2020
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2122
+msgid "Overlay Height"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1548
+msgid "Enter here Overlay Height. Default is 200px"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1555
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2034
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2137
+msgid "Overlay Font size"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1562
+msgid "Enter here Overlay Font Size. Default is 16px"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1569
+msgid "Overlay Border Width"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1576
+msgid "Enter here Overlay Border Width. Default is 2px"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1583
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2062
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2167
+msgid "Overlay Border Style"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1592
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2071
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2176
+msgid "Solid"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1595
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2074
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2179
+msgid "Dashed"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1599
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2078
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2183
+msgid "(Available options - Default,Solid,Dashed)."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1607
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1612
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2197
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2202
+msgid "Limit Panning and Zoom"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1618
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2208
+msgid ""
+"Limit panning and zoom (if you checked,below information can not be empty)."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1641
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1664
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2229
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2250
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2314
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2337
+msgid "Insert here latitude"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1647
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1670
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2235
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2256
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2320
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2343
+msgid "Insert here longitude"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1656
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2242
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2329
+msgid "To"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1704
+msgid "Do you want to set minimum zoom level?"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1714
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2390
+msgid "Tabs Settings"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1720
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2396
+msgid "Display Tabs"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1726
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1743
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2402
+msgid "Display various tabs on the map."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1739
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1978
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2416
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2648
+msgid "Display Categories Tab"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1749
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1988
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2426
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2658
+msgid "Display Directions Tab"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1755
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1994
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2432
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2664
+msgid "Display Direction Tab."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1770
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1821
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2003
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2445
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2495
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2673
+msgid "Select Unit"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1779
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1830
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2012
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2454
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2504
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2682
+msgid "Select Unit."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1787
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1838
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2019
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2461
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2511
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2689
+msgid "Default Start Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1793
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1844
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2025
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2467
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2517
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2695
+msgid "Default Start Location."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1801
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1852
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2033
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2475
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2525
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2703
+msgid "Default End Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1807
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1858
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2039
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2481
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2531
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2709
+msgid "Default End Location."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1866
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2047
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2539
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2716
+msgid "Display Nearby Tab"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1871
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2052
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2542
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2719
+msgid "Display Nearby Tab."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1876
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2058
+msgid "Display Route Tab"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1881
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2063
+msgid "Display Route Tab."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1890
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2072
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2560
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2735
+msgid "Tabs Font Color"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1900
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1918
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1950
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2082
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2100
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2132
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2570
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2588
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2620
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2745
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2763
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2795
+msgid "Please choose font color."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1908
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2090
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2578
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2753
+msgid "Category Font Color"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1926
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2108
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2596
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2771
+msgid "Category Font Size"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1932
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1964
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2114
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2146
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2602
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2634
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2777
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2809
+msgid "Please enter font size."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1940
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2122
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2610
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2785
+msgid "Location Font Color"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1958
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2140
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2628
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2803
+msgid "Location Font Size"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:1982
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2420
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2652
+msgid "Display Categories/Locations Tab."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2162
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2824
+msgid "Display Listing"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2168
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2830
+msgid "Display locations listing below the map."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2185
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2845
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2911
+msgid "Locations per Page"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2188
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2848
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2914
+msgid "Set locations to display per page. Default is 10."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2193
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2198
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2853
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2858
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2919
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2924
+msgid "Display Search Form"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2203
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2863
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2929
+msgid "Before Listing Placeholder"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2214
+msgid "Display a text/html/shortcode before displaylisting."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2219
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2878
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2944
+msgid "Listing Placeholder"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2241
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2899
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2965
+msgid ""
+"{marker_link},{location_title}, {location_address}, {location_message}, "
+"{location_latitude}, {location_longitude}, {marker_image} and "
+"{category_title}."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2245
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2972
+msgid "Sort By"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2252
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2980
+msgid "Select this to sort alphabetically."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2259
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2990
+msgid "GEOJSON"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2264
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2995
+msgid "Paste GEO JSON URL"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2270
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:3001
+msgid "Please enter GEO JSON Url"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-create-map.php:2278
+msgid "Save Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-display-locations.php:343
+msgid "No Locations found."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-display-locations.php:365
+msgid "Enter address or latitude or longitude or category or title here..."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:38
+msgid "Drawing on Maps"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:53
+msgid "Select Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:69
+msgid "Save Drawing"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:71
+msgid "Reset Drawing"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:76
+msgid "Fill Color:"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:78
+msgid "Opacity:"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:80
+msgid "Stroke Color:"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-drawing.php:82
+msgid "Thickness:"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-import-location.php:65
+msgid "Please select file to be imported."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-import-location.php:69
+msgid "Please upload a valid file"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-import-location.php:267
+msgid ""
+"Locations imported successfully. You can manage your locations <a href=\""
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-import-location.php:289
+msgid ""
+"You can use xml,csv,excel or json file to be imported here. Best approach is "
+"to export a file, do changed and import it back. You can export it <a href=\""
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:13
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:55
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:14
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:14
+msgid "googlemap"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:14
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:56
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:15
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:15
+msgid "googlemaps"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:42
+msgid "No Records for Marker Category."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:76
+msgid "Category Marker"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:77
+msgid "Category Added"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:147
+msgid "Selected Record Deleted Successfully."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:156
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:169
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:177
+msgid "Selected Records Deleted Successfully."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:163
+msgid "Please enter group title."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:181
+msgid "Category Updated Successfully."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:193
+msgid "Edit Marker Category"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-group-map.php:245
+msgid "Update Marker Category"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:88
+msgid "No Records for Manage Locations."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:127
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:91
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:92
+msgid "Title"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:132
+msgid "When Added"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:271
+msgid "Location updated successfully. You can manage your locations <a href=\""
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:288
+msgid "Edit Location"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:388
+msgid "You don\\\"t have any marker group yet."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-location.php:402
+msgid "Update Locations"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:46
+msgid "No Records for Maps."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:99
+msgid "Map Type"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:473
+msgid "Map Updated Successfully."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:528
+msgid "Edit Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:836
+msgid "You don't have any location right now."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1382
+msgid "Style #"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1831
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1905
+msgid "Insert grid here."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1885
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:1959
+msgid "(Available options - 1,2,3,4,5,6,8,9,10,11,12,13,14)."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2013
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2114
+msgid "Insert here Overlay Width"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2027
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2129
+msgid "Insert here Overlay Height"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2041
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2144
+msgid "Insert here Overlay Font Size"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2048
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2152
+msgid "Overlay Border width"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2055
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2159
+msgid "Insert here Overlay Border Width"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2290
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2377
+msgid "Insert here zoom level"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2548
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2724
+msgid "Display Routes Tab"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2551
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2727
+msgid "Display Routes Tab."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2874
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:2940
+msgid "Display a text/html/shortcode before display listing."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:3009
+msgid "Update Map"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-map.php:3023
+msgid "Manage Maps"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:44
+msgid "No Records for Manage Routes."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:167
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:176
+msgid "Selected record deleted successfully."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:236
+msgid "Route updated successfully."
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:271
+msgid "Edit Route"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:435
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:467
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:538
+msgid "Seems you don\\\"t have any location right now"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-manage-routes.php:549
+msgid "Update Route"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-quick-locations.php:288
+msgid "Quicks Locations"
+msgstr ""
+
+#: /applications/xampp/xamppfiles/htdocs/demos/wp-content/plugins/wp-google-map-pro/wpgmp-quick-locations.php:295
+msgid "Click on map to create your locations."
+msgstr ""

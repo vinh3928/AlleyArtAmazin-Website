@@ -1,0 +1,460 @@
+.top-header-fullscreen
+	{
+		margin:0 auto;
+		width:100%;
+		padding:0;
+		position:relative;
+		height:100%;
+		z-index:0;
+	}
+.top-header-fullscreen .transparent-bg 
+	{
+		background:rgba(0,0,0,0.5);
+	}
+/* Slider block video index9  slider-block-1*/
+.slider-block-1 h3
+	{
+		color:#ffffff;
+		text-transform:uppercase;
+		font-weight:300;
+		margin-bottom:20px;
+	}
+.slider-block-1 p.margin-p 
+	{
+		margin:20px;
+	}
+.slider-block-1 .title-slide-bold 
+	{
+		color:#ffffff;
+		font-size:80px;
+		line-height:80px;
+		margin-top:40px;
+		margin-bottom:20px;
+		background:transparent;
+	}
+
+.slider-block-1 span.line span 
+	{
+		width: 120px;
+		height: 2px;
+		display: inline-block;
+		background:#ffffff;
+	}
+
+.slider-block-1 h3.slogan-text
+	{
+		margin-bottom:40px;
+		text-transform:capitalize;
+	}
+/* Slider block youtube index8  slider-block-1 slider-block-2*/
+.slider-block-2 .title-slide-bold {
+	display:inline-block;
+	font-weight:500;
+	margin-top:10px; /*20*/
+	margin-bottom:10px; /*20*/
+}
+.slider-block-2 h2
+	{
+		color:#ffffff;
+		font-weight:300;
+		text-transform: uppercase;
+		margin-bottom:40px;
+		padding:10px;
+		display:inline-block;
+	}
+
+/* Slider block portfolio index10  slider-block-3*/
+.slider-block-3 p.margin-p 
+	{
+		margin:20px;
+	}
+.slider-block-3 h3, 
+.slider-block-3 h2
+	{
+		color:#ffffff;
+		text-transform:uppercase;
+		font-weight:300;
+	}
+
+.slider-block-3 h2 
+	{
+		margin-top:60px;
+		font-size:48px;
+		font-weight:300;
+		margin-bottom:20px;
+	}
+
+.slider-block-3 .title-slide-bold 
+	{
+		margin-top:10px;
+		margin-bottom:40px;
+		font-weight:400;
+	}
+
+.top-header-fullscreen.move-bg {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+/* Slider block zooming index6  slider-block-4*/
+.slider-block-4 p.margin-p 
+	{
+		margin-top:12px;
+	}
+.slider-block-4 p img {
+	margin:20px 0 10px;
+}
+.slider-block-4 .transparent-bg
+	{
+		position:absolute;
+	}
+.slider-block-4 h3
+	{
+		margin-bottom:10px;
+	}
+.slider-block-4 .title-slide-bold 
+	{
+		font-size:60px;
+		line-height:60px;
+		font-weight:300;
+		margin:20px;
+	}
+.slider-block-4  h3.slogan-text
+	{
+		color:#ffffff;
+		font-weight:300;
+	}
+.slider-block-4 span.line 
+	{
+		margin-bottom:30px;
+	}
+
+.slider-block-4 #fade
+	{
+		padding:0px 40px;
+		border:2px solid #ffffff;
+		margin-top:60px;
+		margin-bottom:20px;
+		display:inline-block;
+	}
+/* Slider supersized index7  slider-block-5*/
+.slider-block-5 p.margin-p 
+	{
+		margin:23px;
+	}
+.slider-block-5 h3
+	{
+		margin-bottom:40px;
+	}
+.slider-block-5 .title-slide-bold
+	{
+		font-size:60px;
+		line-height:60px;
+		margin-top:100px;
+		margin-bottom:20px;
+	}
+.slider-block-5 .title-slide-bold span
+	{
+		color:#ffffff;
+		padding:0 20px;
+	}
+.slider-block-5 span.line 
+	{
+		margin-bottom:30px;
+	}
+
+.slider-block-5 a.slide-btn-2 
+	{
+		background:rgba(0,0,0,0.4);
+		padding:8px 24px;
+		text-transform:uppercase;
+		font-size:16px;
+		font-weight:300;
+		color:#ffffff;
+		margin-right:5px;
+	}
+/* Slider Full Screen Background index4  slider-block-6*/
+.full-background
+	{
+		margin:0 auto;
+		width:100%;
+		padding:0;
+		height:100%;
+		position:relative;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+.slider-block-6 .title-slide-bold
+	{
+		margin-top:60px;
+		margin-bottom:20px;
+	}
+.slider-block-6 h3.slogan-text 
+	{
+		color:#ffffff;
+		font-weight:300;
+	}
+.slider-block-6 #fade h3 
+	{
+		color:#fff;
+		font-size:60px;
+		margin:23px 0 30px;
+		font-weight:500;
+	}
+/* Slider Full Screen Background index5  slider-block-7*/
+/*OWL Caoursol*/
+.fullwidth-slider_3
+	{
+		margin:0 auto;
+		width:100%;
+		padding:0;
+		position:relative;
+		height:100%;
+	}
+.fullwidth-slider_3 .cbp-bislideshow li, 
+.fullwidth-slider_3 .cbp-bislideshow li img
+	{
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+		background-position: center center;
+	}
+.cbp-bislideshow
+	{
+	  list-style: none;
+	  width: 100%;
+	  height: 100%;
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  z-index: -1;
+	  padding: 0;
+	  margin: 0;
+	}
+
+.cbp-bislideshow li
+	{
+	  position: absolute;
+	  width: 100%;
+	  height: 100%;
+	  opacity: 0;
+	  -webkit-transition: opacity 1s;
+	  -moz-transition: opacity 1s;
+	  transition: opacity 1s;
+	}
+
+.backgroundsize .cbp-bislideshow li 
+	{
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+		background-position: center center;
+	}
+
+.backgroundsize .cbp-bislideshow li img 
+	{
+		display: none;
+	}
+
+.cbp-bislideshow li img 
+	{
+		display: block;
+		width: 100%;
+	}
+.slider-block-7 .title-slide-bold
+	{
+		font-size:70px;
+		line-height:70px;
+		margin-top:60px;
+		margin-bottom:20px;
+	}
+.slider-block-7 p.margin-p 
+	{
+		margin-top:20px;
+	}
+.slider-block-7 h3.slogan-text
+	{
+		color:#ffffff;
+		font-weight:300;
+	}
+.app-slide 
+	{
+		margin:0 auto;
+		margin-bottom:40px;
+		padding:0;
+		list-style-type:none;
+	}
+
+.app-slide li
+	{
+		display:inline-block;
+		margin:0 10px 10px 0;
+	}
+
+.app-slide li:last-child
+	{
+		margin:0 0 10px 0;
+	}
+
+.app-slide li i 
+	{
+		color:#ffffff;
+		font-size:40px;
+		width:80px;
+		height:80px;
+		background:rgba(255,255,255,0.1);
+		line-height:80px;
+		text-align:center;
+		display:block;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+	}
+
+.slider-block-7 .slide-btn-2, .slider-block-7 .slide-btn-2:link
+	{
+		background:rgba(0,0,0,0.4);
+		padding:8px 24px;
+		text-transform:uppercase;
+		font-size:16px;
+		font-weight:300;
+		color:#ffffff;
+		margin-right:5px;
+	}
+
+.slider-block-7 .slide-btn-2:last-child
+	{
+		margin-right:0px;
+	}
+
+.slider-block-7 .slide-btn-2:hover 
+	{
+		background:rgba(0,0,0,0.8);
+	}
+
+.slider-block-7 span.line 
+	{
+		margin-bottom:40px;
+	}
+
+.slider-block-7 #fade h1, .slider-block-7 #fade h2 
+	{
+		text-transform:uppercase;
+		font-size:80px;
+		line-height:80px;
+	}
+/* Slider Full Screen Background fixed_one_page  slider-block-8*/
+.slider-block-8 .title-slide-bold 
+	{
+		color:#ffffff;
+		margin-top:60px;
+	}
+.slider-block-8 h3.slogan-text
+	{
+		color:#ffffff;
+		font-weight:300;
+		margin-bottom:40px;
+	}
+.slider-block-8 #fade h1, .slider-block-8 #fade h2 
+	{
+		color:#fff;
+		font-size:60px;
+		margin:60px 0;
+		line-height:24px;
+	}
+	
+/* Slider Full Screen Background video_one_page slider-block-9*/
+.slider-block-9 .title-slide-bold
+	{
+		font-size:70px;
+		line-height:70px;
+		margin-top:60px;
+	}
+.slider-block-9 h3.slogan-text
+	{
+		color:#ffffff;
+		font-weight:300;
+	}
+.slider-block-9 span.line 
+	{
+		margin-bottom:40px;
+	}
+
+.slider-block-9 #fade h1, .slider-block-9 #fade h2  
+	{
+		text-transform:uppercase;
+		font-size:80px;
+		line-height:80px;
+	}
+	
+/* CBG Slider index3 [Full width slider] slider-block-10*/
+.fullwidth-slider_2
+	{
+		margin:0 auto;
+		width:100%;
+		padding:0;
+		height:700px;
+		position:relative;
+	}
+
+.fullwidth-slider_2 .cbp-bislideshow
+	{
+		overflow:hidden;
+		position:fixed;
+	}
+
+.fullwidth-slider_2 .cbp-bislideshow li 
+	{
+		background-size:cover;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+	}
+
+.fullwidth-slider_2 .cbp-bislideshow li img
+	{
+		background-size:cover;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+	}
+.slider-block-10 .title-slide-bold 
+	{
+		font-size:70px;
+		line-height:70px;
+		margin-top:60px;
+		margin-bottom:20px;
+	}
+.slider-block-10 h3.slogan-text
+	{
+		color:#ffffff;
+		font-weight:300;
+	}
+/* Landing Page Background*/
+.slider-block-11 h3 
+	{
+		color:#ffffff;
+		text-transform:uppercase;
+		font-weight:300;
+	}
+
+.slider-block-11 h3.slogan-text
+	{
+		color:#ffffff;
+		font-weight:300;
+		text-transform:capitalize;
+		margin-bottom:40px;
+	}
+.slider-block-11 p 
+	{
+		color: #fff;
+		font-weight: 300;
+		font-size: 16px;
+		margin-bottom: 40px;
+	}
+.slider-block-11 p.margin-top 
+	{
+		margin-top:80px;
+	}

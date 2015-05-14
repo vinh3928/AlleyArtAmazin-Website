@@ -1,0 +1,256 @@
+/*  == Selection == */
+
+::selection
+	{
+	  background: #d35400 !important;
+	  color: #ffffff;
+	}
+
+::-moz-selection
+	{
+	  background: #d35400 !important;
+	  color: #ffffff;
+	}
+
+::-webkit-selection
+	{
+	  background: #d35400 !important;
+	  color: #ffffff;
+	}
+
+
+/*  == Background Style == */
+
+#top-menu a:hover,
+span.line span,
+.block-item:hover i,
+.block-item:hover a,
+.block-item i.active,
+.block-item2:hover i,
+.block-item2 i.active,
+.what-we-do ul li:hover i,
+.view-more a:hover,
+.team-member:hover ul li a:hover,
+.newsletter button,
+.cricle-process:hover,
+#back-top i,
+.tags-footer li a:hover,
+.fullwidth-slider_4 .title-slide-bold span,
+.fullwidth-slider_5 h2,
+.pricing_table li.active h3,
+.social-touch  li a:hover i,
+.forms button i,
+.owl-theme .owl-controls .owl-page.active span,
+#stlChanger .stBlock:first-child span,
+.list-overview li i,
+.list-features li i,
+.list-features-2 li i,
+.portfolio-sample-2 .overlay i,
+.dropcap,
+.btn-icon i,
+.welcome a.panel-button,
+ul.service-list li span,
+.nav-tabs2>li.active>a,
+.nav-tabs2>li>a:hover,
+.nav-tabs3>li.active>a,
+.nav-tabs2>li>a:hover,
+.teams:hover ul li a:hover,
+.tags-list ul li a:hover,
+.portfolio-description ul li a:hover,
+.pagination>li.active a, 
+.pagination>li a:hover, 
+.pagination>li.active:hover a,
+.portfolio-pagination li a:hover,
+.divider-blog span,
+mark,
+.question:hover span,
+.login_page .login-btn,
+.login-form .login-btn,
+.login-bg .login-btn,
+.sign-bg .login-btn,
+.sign-page-onepage .login-btn,
+.construction-page-2 #clock-ticker .block,
+.construction-page-2 form button,
+.sitemap-content h2 span,
+.sitemap-content-2 h2 span,
+.white-icons a:hover i,
+.blockquote-colorful,
+.rev-h1 h4 a,
+.big-bg,
+.pagination > li span.current,
+.page-links span,
+.page-links a:hover span,
+.carousel-indicators li.active,
+ul.service-list li i,
+.tagcloud a:hover,
+.top-footer .widget_tag_cloud a:hover,
+.clients .overlay i,
+.slider-block-2 h2,
+.pricing_table .active h3,
+.slider-block-5 .title-slide-bold span,
+#clock-ticker .block.bgblockcolor,
+.flag-sticky,
+.construction-block-2 form button,
+#top-menu li a.active,
+.mc4wp-form input[type="submit"],
+.newsletter input[type="submit"]
+	{
+		background: #d35400;
+	}
+
+/*  == Background Color Style   !! Not Important !! == */
+
+.portfolioFilter a.current, #stlChanger .chBut
+	{
+		background-color:#d35400;
+	}
+
+/*  == Borders Style == */
+
+#top-menu a:hover,
+.slide-btn:hover,
+.block-item i,
+.block-item2 i,
+.block-item a,
+.what-we-do ul li:hover i,
+.portfolio-sample .overlay i:hover,
+.bx_flicker a img:hover,
+.forms button,
+.block-item3:hover i,
+.list-overview li i,
+.slide-btn-3:last-child,
+.list-features li i,
+.list-features-2 li i,
+.portfolio-sample-2 .overlay i,
+.newsletter input:hover,
+.signup a.slide-btn-3:last-child,
+.btn-icon,
+.head-sidebar,
+.nav-tabs3,
+.panel-default .in,
+input:focus, 
+input:hover, 
+textarea:focus, 
+textarea:hover, 
+select:hover, 
+select:focus,
+.forms input:focus, 
+.forms input:hover, 
+.forms textarea:focus, 
+.forms textarea:hover, 
+.forms select:hover, 
+.forms select:focus,
+.blog-desc-single blockquote,
+.forms input[type="hidden"], 
+.forms input[type="submit"],
+#clock-ticker .block,
+.alizarin-divider,
+.bord-bottom,
+.portfolio-sample-gird-4 .overlay i:hover,
+.login-icon input:hover, 
+.login-icon input:focus,
+.rev-h1 h4 a,
+.block-item.grey-border i:hover,
+.post-password-form p input[type="submit"],
+.block-item:hover i.grey-border,
+#commentform input:focus, 
+#commentform input:hover, 
+#commentform textarea:focus, 
+#commentform textarea:hover, 
+#commentform select:hover, 
+#commentform select:focus,
+#commentform input[type="hidden"], 
+#commentform input[type="submit"],
+.clients .overlay i,
+#comments input[type="submit"],
+.main_nav ul.sub-menu > li:first-child,
+.main_nav ul.sub-menu ul.sub-menu > li:first-child,
+.darkness .mc4wp-form input[type="date"]:hover, .darkness .mc4wp-form input[type="email"]:hover, .darkness .mc4wp-form input[type="tel"]:hover, .darkness .mc4wp-form input[type="text"]:hover, .darkness .mc4wp-form input[type="url"]:hover, .darkness .mc4wp-form select:hover, .darkness .mc4wp-form textarea:hover,
+.darkness .mc4wp-form input:hover,
+.what-we-do i
+	{
+		border-color:#d35400;
+	}
+
+/*  == Color Styles == */
+
+a:hover,
+.title-slide-bold span,
+.slogan-text span,
+.slide-btn:hover,
+.portfolio-sample:hover .overlay i:hover,
+.icon-facts i,
+.post-footer li a:hover,
+.comment-footer li a:hover,
+.slide-btn-2:hover,
+.welcome h1 span,
+.what-we-do-2 i.active,
+.service-item:hover i,
+.social-touch  li a:hover,
+.action_button:hover,
+.footer-one-page a,
+.footer-one-page i,
+.testimonial-item p span i,
+.overview h3,
+header h1 span,
+.platform-icon:hover i,
+.nav-tabs>li.active>a>i,
+.main-title-revolution span,
+.signup a.slide-btn-3:last-child,
+.category-list li a:hover,
+.tab-content3 ul li a:hover,
+.rock ul li span,
+.panel-default a:hover,
+.breadcrumb-blog:hover span,
+.error_symbol,
+.error-content h1,
+.error_symbol_2,
+.error_page_2 .search button:hover,
+.login_page .forget a:hover,
+.login-bg h5 a,
+.login-bg form a,
+.sign-page-onepage form a,
+.sign-page-onepage form a,
+.sign-up-background a,
+.sign-up-page p a,
+.countdown a,
+.panel-default a span,
+.testimonial-item-list blockquote span i.fa-quote-right,
+.testimonial-item-list blockquote span i.fa-quote-left,
+.testimonial-item-list h2,
+.portfolio-sample-gird-4 .overlay i:hover,
+.blog-list a:hover,
+.share a:hover,
+a.comment-reply-link i:hover,
+.career a:hover,
+.icons-fontawesome a:hover,
+.portfolio-description a:hover,
+.sitemap-content a:hover,
+.rev-h1 h2,
+.colorful,
+#comments-list .comment-meta a:hover,
+.comment-body .fn a:hover,
+#comments-list a.comment-edit-link,
+header h2 span,
+.welcome h2 span,
+.top-footer .widget a:hover,
+.error-content h2,
+.tab-content2 h3,
+.login-bg .forget a,
+.sign-page-onepage ul li a,
+#main-menu > li:hover > a,
+#main-menu > li a.active,
+#main-menu > li.current-menu-item > a,
+#main-menu > li.current-menu-parent > a,
+.what-we-do i,
+.head-theme-color
+	{
+		color:#d35400;
+	}
+	
+.rev_slider_wrapper a.slide-btn:hover,
+.rev_slider_wrapper .colorful,
+.rev_slider_wrapper .colorful i 
+	{
+		color:#d35400 !important;
+	}

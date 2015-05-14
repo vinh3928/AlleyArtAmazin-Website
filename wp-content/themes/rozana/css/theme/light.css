@@ -1,0 +1,193 @@
+/* == Basic  ==*/
+
+body
+	{
+	  background: #1a1a1a;
+	  color: #666666;
+	}
+
+/* == Color Styles  ==*/
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6, 
+header h5, 
+.block-item i,
+.square-btn,
+.cricle-process,
+.overview h3 span,
+.btn-icon,
+.btn-icon:hover,
+.head-sidebar,
+.tags-list ul li a,
+.tagcloud a,
+.portfolio-description ul li a,
+.tab-content2 h2,
+a,
+.format-link .blog-list .blog-title .title-blog-name p a,
+.title-blog-name h1,
+.counter-wrapper,
+.what-we-do ul li
+	{
+		color:#2a2a2a;
+	}
+.fun-facts h5,
+.social-network li a,
+.tab-content2 ,
+#comments-list .comment-meta a, #comments-list .comment-meta a.comment-edit-link:hover, #comments-list a.comment-edit-link:hover, .blog-desc-single .share a
+	{
+		color:#666666;
+	}
+
+.breadcrumb-blog span,
+.tab-content3 ul li span
+	{
+		color:#e8e8e8;
+	}
+
+/* == Background Colors Styles  ==*/
+
+.theme-color,
+.btn-icon,
+.portfolio-withtext div.portfolio-sample,
+.portfolio-withtext-gird div.portfolio-sample,
+.img-banner blockquote,
+.blog-masonry-style .blog-list,
+.icon-facts i, 
+.cricle-process,
+.team-member:hover
+	{
+		background:#ffffff;
+	}
+	
+.view-more a,
+.owl-theme-style .owl-controls .owl-pagination .owl-page,
+.nav-tabs2>li>a
+	{
+		background:#2a2a2a;
+	}
+
+.portfolioFilter ul li a,
+.pagination>li a,
+.page-links a span
+	{ 
+		background:#ededed;
+		color:#666666;
+	}
+	
+.grey-bg,
+.second-bg,
+.portfolio-withtext div.second-bg
+
+	{
+		background:#f1f1f1;
+	}
+
+.head-sidebar,
+.dropcap2,
+.social-network li a,
+.tags-list ul li a,
+.tagcloud a,
+.portfolio-description ul li a,
+.tab-content2, .img-banner blockquote,
+.the-comment, .blockquote-bg,
+.toggle_01 .panel-default a.accordion-toggle,
+.comment-body,
+.tab-content .container.pad-top-bottom 
+	{
+		background:#f8f8f8;
+	}
+	
+/* == Background Images Styles  ==*/
+
+.portfolioFilter a.current { 
+	background-image:url(../../img/tabs.png);
+}
+
+.process-bg 
+	{
+		background:url(../../img/light_process.png) no-repeat top center;
+	}
+
+.login-icon 
+	{
+		background:url(../../img/lock.png) center top no-repeat;
+	}
+
+.tree-timeline 
+	{
+		background:url(../../img/top_tree.png) no-repeat center top;
+	}
+
+.tree-repeat 
+	{
+		background:url(../../img/tree_repeat.png) repeat-y center top;
+	}
+
+.build-right:last-child, 
+.build-left:last-child 
+	{
+		background:url(../../img/bottom_tree.png) no-repeat bottom center;
+	}
+
+/* == Borders Styles  ==*/
+
+.img-member img 
+	{
+		border:10px solid #f1f1f1;
+	}
+
+.team-member, 
+.cricle-process,
+.search .form-control,
+.client-img
+	{
+		border:1px solid #dddddd;
+	}
+	
+.fun-facts,
+.career,
+.marg-divider,
+.tab-content3 ul li,
+.panel-default a.panel-link,
+.portfolio-description,
+.blog-list,
+.blog-masonry-style .blog-list,
+.the-comment, 
+.comment-body,
+#respond,
+#comments-list > li > ol.children li:before,
+#comments-list > li > ol.children,
+#comments-list  li ol.children,
+.divider-dashed,
+.divider-solid,
+.divider-dotted,
+.faqs .panel-default a.accordion-toggle
+	{
+		border-color:#e4e4e4;
+	}
+
+
+.owl-theme-style .owl-controls .owl-pagination .owl-page.active 
+	{
+		border: 1px solid #2a2a2a;
+	}
+
+.blog-date span:last-child,
+.portfolio-pagination li a  
+	{
+		background:#f4f4f4;
+	}
+
+.fixed-logo 
+	{
+		background:rgba(26,26,26,0.8);
+	}
+
+/* ========== END ======== */
+/* Last Modified 18-10-2014 */
+
+/* Added Class Name  .fixed-logo  */

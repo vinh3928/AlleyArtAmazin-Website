@@ -1,0 +1,67 @@
+.move-bg2 {
+	background:url(../img/screens/bg.jpg) repeat top center #2a2a2a fixed;
+}
+
+.top-intro  .transparent-bg {
+	background:rgba(0,0,0,0.4)
+}
+
+.top-intros h3 span {
+	color:#f54325;
+}
+
+.top-intros h3 {
+	text-transform:uppercase;
+	margin-top:40px;
+	line-height:38px;
+}
+
+.top-intros img {
+	margin:0 auto;
+	opacity:0.8;
+	-webkit-transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  -moz-transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  -ms-transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  -o-transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  outline: none;
+}
+
+.top-intros img:hover {
+	opacity:1;
+}
+
+.darking:hover {
+	background:#2a2a2a;
+}
+
+.darking {
+	-webkit-transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  -moz-transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  -ms-transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  -o-transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, padding .3s ease;
+	  outline: none;
+	  padding-top:15px;
+	  padding-bottom:15px;
+}
+
+.darking:hover h3 {
+	color:#fff;
+}
+
+.grey-bg-x {
+	background:#000;
+}
+
+@media (max-width: 800px) {
+	.container {
+		width:94%;
+	}
+}
+
+@media (max-width: 480px) {
+	.container {
+		width:90%;
+	}
+}

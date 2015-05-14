@@ -1,0 +1,105 @@
+/* 
+CSS General
+*/
+
+/* === Default Font  //  Open Sans === */
+
+body,
+input,
+select,
+textarea,
+header h5,
+.team-member h5,
+.fun-facts h5
+	{
+	  font: 13px/24px "Open Sans", Helvetica, Arial, sans-serif;
+	}
+
+
+/* === Secondary  //  Oswald === */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#top-menu h3 a,
+#top-menu ul ul li a,
+.what-we-do ul li,
+.portfolioFilter ul li a,
+.portfolio-sample .overlay h3,
+.newsletter input,
+.newsletter button,
+.title-slide-light,
+.title-slide-bold,
+.price_number,
+.features li,
+.hot-icon span,
+.social-touch  li a,
+.forms p,
+.footer-one-page p,
+#stlChanger .stBlock:first-child span,
+.fullwidth-slider_2 p,
+.slider-block-11 p,
+.nav-tabs>li>a,
+.testimonial-item p,
+.progress-bar,
+.dropcap,
+.nav-tabs2>li>a,
+.panel-default a.panel-link,
+.blog-date span:last-child,
+.about-author span,
+.comment-author span,
+.branches .panel-default a.accordion-toggle,
+.error_symbol,
+.error_symbol_2,
+.error_page_2 .search input,
+.faqs .panel-default a.accordion-toggle,
+.faqs_2 .panel-default a.accordion-toggle,
+#clock-ticker .block .label ,
+#clock-ticker .block,
+.small-btn,
+.medium-btn,
+.big-btn,
+.toggle_01 .panel-default a.accordion-toggle,
+.toggle_02 .panel-default a.accordion-toggle,
+#top-menu a,
+.format-link .blog-list .blog-title .title-blog-name p,
+.comment-body .fn, 
+.comment-body .fn a,
+#commentform p, #commentform label,
+.blog-desc-single .post-password-form p label,
+.counter-wrapper,
+#main-menu > li > a ,
+.main_nav ul.sub-menu > li > a,
+.mc4wp-form input,
+.newsletter input[type="submit"]
+	{
+	  font-family: "Oswald", Helvetica, Arial, sans-serif;
+	}
+
+
+/* === Third Font  //  Open Sans Condensed === */
+
+.banners p,
+.head-sidebar p,
+.head-sidebar h3,
+.blog-desc blockquote,
+.login_page input[type="text"],
+.login_page input[type="password"],
+.login_page .login-btn,
+.login-form input[type="text"],
+.login-form input[type="password"],
+.login-form .login-btn, .login-bg form, 
+.login-bg form label,
+.testimonial-item-list blockquote,
+.white-text p,
+.rev_slider_wrapper .slogan-text
+
+	{
+		font-family:Open Sans Condensed;
+	}
+
+/* ========== END ======== */
+/* Last Modified 28-9-2014 */

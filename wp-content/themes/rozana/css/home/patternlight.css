@@ -1,0 +1,63 @@
+/* == Slider == */
+
+.full-background-pattern 
+	{
+		margin:0 auto;
+		width:100%;
+		padding:0;
+		height:100%;
+		position:relative;
+		background-image: url(../../img/pattern/diagonales_decalees.png);
+		background-color:rgb(255,255,255);
+		background-repeat:repeat;
+		background-attachment:fixed;
+	}
+
+.full-background-pattern h3
+	{
+		text-transform: capitalize;
+		font-weight:300;
+	}
+
+.full-background-pattern h3.slogan-text
+	{
+		margin-bottom:40px;
+	}
+
+.full-background-pattern span.line span 
+	{
+		width: 120px;
+		height: 2px;
+		display: inline-block;
+		background:#2a2a2a;
+	}
+
+.full-background-pattern .title-slide-bold 
+	{
+		font-size:80px;
+		line-height:80px;
+		margin-top:10px;
+		margin-bottom:40px;
+		font-weight:400;
+	}
+
+a.slide-btn
+	{
+		color:#2a2a2a;
+		border-color:#2a2a2a;
+	}
+
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) {
+	.full-background-pattern   
+		{
+			background-image: url../../img/pattern/diagonales_decalees_@2X.jpg);
+			 background-repeat:repeat;
+			 background-size: 288px 96px;
+		}
+}
+
+/* ========== END ======== */
+/* Last Modified 28-9-2014 */

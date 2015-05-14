@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="rozana">
+            <key name="bt_footer_content" />
+			<key name="menu_phone_1" />
+			<key name="menu_phone_2" />
+			<key name="portfolio_sub_title" />
+			<key name="single_portfolio_after_recent" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
