@@ -6,7 +6,7 @@ RewriteBase /AlleyArtAmazin-Website/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /AlleyArtAmazin-Website/index.php [L]
+RewriteRule . /AlleyArt-2/index.php [L]
 </IfModule>
 
 # END WordPress
